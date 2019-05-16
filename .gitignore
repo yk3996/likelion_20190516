@@ -1,0 +1,4 @@
+venv/
+likelion_190516_01/settings.py
+.idea/
+db.sqlite3
